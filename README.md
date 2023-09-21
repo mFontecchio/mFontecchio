@@ -36,13 +36,13 @@
 # <h3 align="left">GitHub Stats:</h3>
 
 <div style="display: grid; grid-auto-flow: dense; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); grid-gap: 1rem;">
-    <div style=" grid-column-end: span 2;">
+    <div style="grid-column-end: span 2;">
         <img src="https://github-readme-stats.vercel.app/api?username=mfontecchio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
     </div>
     <div style="grid-row: 1 / span 2;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfontecchio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&&langs_count=12">
     </div>
-    <div style=" grid-column-end: span 2;">
+    <div style="grid-column-end: span 2;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mfontecchio&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
     </div>
 </div>
