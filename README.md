@@ -1,15 +1,3 @@
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <!-- Your HTML head content here -->
-</head>
-<body>
-test
-  <!-- Your HTML body content here -->
-</body>
-</html>
-```
 <h1 align="center">Hey There 👋, I'm Michael Fontecchio</h1>
 <h3 align="center">A Curious Developer</h3>
 
