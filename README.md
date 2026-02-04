@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-### 👨‍💻 About Me
+### About Me
 
 🔹 Building with **Angular/TypeScript** and **.NET/C#**  
 🔹 Focused on clean architecture and developer experience  
@@ -29,13 +29,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🔷 angular-jester
+#### angular-jester
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mFontecchio&repo=angular-jester&theme=tokyonight&hide_border=true)](https://github.com/mFontecchio/angular-jester)
 
 VS Code extension for Angular + Jest developers — streamline test generation and execution
@@ -43,7 +44,7 @@ VS Code extension for Angular + Jest developers — streamline test generation a
 </td>
 <td width="50%">
 
-#### 🔒 kellie-bot
+#### kellie-bot
 **Private Project**
 
 Intelligent automation & detection tooling  
@@ -57,7 +58,7 @@ Built with .NET, AI agents, and enterprise integrations
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -72,7 +73,7 @@ Built with .NET, AI agents, and enterprise integrations
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -100,7 +101,7 @@ Built with .NET, AI agents, and enterprise integrations
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 ```typescript
 const currentFocus = {
@@ -112,7 +113,7 @@ const currentFocus = {
 
 ---
 
-### 📝 Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
