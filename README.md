@@ -1,87 +1,132 @@
 <div align="center">
-  <h1>Michael Fontecchio</h1>
-  <p>Software developer building web + mobile experiences and automation</p>
-  <p>
-    <a href="https://www.linkedin.com/in/michael-fontecchio-3b5050169">LinkedIn</a>
-    •
-    <a href="https://github.com/mFontecchio?tab=repositories">Repositories</a>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Michael+Fontecchio+%F0%9F%91%8B;Full-Stack+Developer;Building+Web+%26+Mobile+Experiences" alt="Typing SVG" />
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/michael-fontecchio-3b5050169">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/mFontecchio?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    </a>
   </p>
+
 </div>
 
-## About
+---
 
-- I build in **Angular/TypeScript** and **.NET/C#**, with a focus on clean architecture and developer experience.
-- Lately I’ve been exploring **Ionic + Capacitor** for mobile apps and **AI tooling** for productivity.
-- I like shipping pragmatic tools that make workflows faster and testing more reliable.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-## Featured
+### 👨‍💻 About Me
 
-### Public
+🔹 Building with **Angular/TypeScript** and **.NET/C#**  
+🔹 Focused on clean architecture and developer experience  
+🔹 Exploring **Ionic + Capacitor** for mobile apps  
+🔹 Passionate about **automation** and **AI-powered workflows**  
+🔹 Shipping pragmatic tools that make development faster
 
-<a href="https://github.com/mFontecchio/angular-jester">
-  <img
-    alt="angular-jester"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=mFontecchio&repo=angular-jester&theme=transparent&hide_border=true&cache_seconds=21600"
-  />
-</a>
+<br clear="right"/>
 
-### Private (highlights)
+---
 
-- **kellie-bot**: Private automation + detection tooling (currently private; can share details on request)
+### 🚀 Featured Projects
 
-## Stats
+<table>
+<tr>
+<td width="50%">
+
+#### 🔷 angular-jester
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mFontecchio&repo=angular-jester&theme=tokyonight&hide_border=true)](https://github.com/mFontecchio/angular-jester)
+
+VS Code extension for Angular + Jest developers — streamline test generation and execution
+
+</td>
+<td width="50%">
+
+#### 🔒 kellie-bot
+**Private Project**
+
+Intelligent automation & detection tooling  
+Built with .NET, AI agents, and enterprise integrations
+
+*Details available on request*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mFontecchio&theme=tokyonight" />
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mFontecchio&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mFontecchio&theme=tokyonight" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mFontecchio&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/mFontecchio?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=America%2FNew_York)
+#### Currently Using
+  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+#### Also Experienced With
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-<!--
-Using lowlighter/metrics - more reliable than github-readme-stats.
-To customize: https://github.com/lowlighter/metrics
-Alternative options if you prefer different widgets:
-- GitHub Profile Summary Cards: https://github.com/vn7n24fzkq/github-profile-summary-cards
-- Activity Graph: https://github.com/ashutosh00710/github-readme-activity-graph
--->
+---
 
-<details>
-  <summary><strong>Tech stack</strong></summary>
-  <br />
+### 🌱 Currently Learning
 
-  <strong>Currently using</strong>
-  <br />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-0F172A?logo=angular&logoColor=DD0031" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0F172A?logo=typescript&logoColor=3178C6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0F172A?logo=javascript&logoColor=F7DF1E" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0F172A?logo=tailwindcss&logoColor=06B6D4" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-0F172A?logo=csharp&logoColor=512BD4" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-0F172A?logo=dotnet&logoColor=512BD4" />
-  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-0F172A?logo=ionic&logoColor=3880FF" />
-  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-0F172A?logo=capacitor&logoColor=119EFF" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0F172A?logo=nodedotjs&logoColor=339933" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-0F172A?logo=jest&logoColor=C21325" />
+```typescript
+const currentFocus = {
+  mobile: ["Ionic UI patterns", "Capacitor plugins", "Native deployments"],
+  ai: ["AI agent workflows", "Prompt engineering", "Dev automation"],
+  testing: ["Advanced E2E patterns", "Performance testing", "Contract testing"]
+};
+```
 
-  <br /><br />
-  <strong>Also worked with</strong>
-  <br />
-  <img alt="React" src="https://img.shields.io/badge/React-0F172A?logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0F172A?logo=nextdotjs&logoColor=ffffff" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-0F172A?logo=vuedotjs&logoColor=42B883" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0F172A?logo=firebase&logoColor=FFCA28" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0F172A?logo=docker&logoColor=2496ED" />
-</details>
+---
 
-<details>
-  <summary><strong>What I’m learning now</strong></summary>
-  <br />
-
-  - Ionic UI patterns + performance
-  - Capacitor native plugins and deployment pipelines
-  - Practical AI tooling for dev workflows (prompting, agents, automation)
-</details>
-
-## Recent activity
+### 📝 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  
+  ### ⚡ Fun Fact
+  
+  *I believe the best code is the code you don't have to write — automation and smart tooling FTW!*
+  
+  <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mFontecchio&color=blueviolet&style=for-the-badge)
+  
+</div>
