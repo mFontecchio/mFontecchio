@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Michael+Fontecchio+%F0%9F%91%8B;Full-Stack+Developer;Building+Web+%26+Mobile+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Michael+Fontecchio+%F0%9F%91%8B;Full-Stack+Developer;Building+Web+%26+Mobile+Experiences" alt="Typing SVG" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/michael-fontecchio-3b5050169">
